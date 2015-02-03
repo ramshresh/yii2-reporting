@@ -1,0 +1,21 @@
+{
+    "name": "ramshresh/yii2-reporting",
+    "description": "reporting",
+    "type": "library",
+    "keywords": [""],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ram Shrestha",
+            "email": "sendmail4ram@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ramshresh\\reporting\\": ""
+        }
+    }
+}
